@@ -1,0 +1,45 @@
+.imageBlock img{
+    width: 180px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 3px;
+
+    
+}
+#technologyBlock{
+    width:16% ;
+    float: left;
+}
+#technologyarticleContent{
+   
+    background-color:whitesmoke;
+   margin-left: 40px;
+   border: 1px solid black;
+   margin-top: 40px;
+   
+
+   
+} 
+h3{
+   text-align: center;
+    color: red;
+    font-size: xx-large;
+    background-color: black;
+}
+   .technologytitle h4{
+      margin-left: 10px;
+   } 
+   .technologyDate {
+    border-bottom: 2px solid darkgreen;
+   }
+   .technologytitle a{
+       color:maroon;
+       font-size: 20px;
+      margin-left: 60px;
+      
+   }
+   .technologyDate span{
+       font-size: 15px;
+       margin-left: 10px;
+   }

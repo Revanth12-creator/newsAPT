@@ -1,0 +1,38 @@
+
+
+/* ------------------businessAPT start------------------  */
+#businessBlock{
+    width: 16%;
+    float: left;
+}
+
+#bissinessarticleContent{
+    
+    background-color:seashell;
+   margin-left: 40px;
+   border: 1px solid black;
+   margin-top: 40px;
+} 
+h3{
+   text-align: center;
+    color: red;
+    font-size: xx-large;
+    background-color: black;
+}
+   .bunessstitle h4{
+      margin-left: 10px;
+   } 
+   .businesstDate{
+    border-bottom: 2px solid darkgreen;
+   }
+   .bunessstitle a{
+       color:maroon;
+       font-size: 20px;
+      margin-left: 60px;
+      
+   }
+   .businesstDate span{
+       font-size: 15px;
+       margin-left: 10px;
+   }
+   /* ------------------businessAPT End------------------  */

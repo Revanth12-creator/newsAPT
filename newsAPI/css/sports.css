@@ -1,0 +1,58 @@
+
+
+/* ------------------sportsAPT start------------------  */
+
+ .imageBlock img{
+    width: 220px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 3px;
+
+    
+}
+#sportsBlock{
+    width:16% ;
+    float: left;
+}
+#sportarticleContent{
+   
+    background-color:lightgreen;
+   margin-left: 40px;
+   border: 1px solid black;
+   margin-top: 40px;
+   
+
+   
+} 
+h3{
+   text-align: center;
+    color: red;
+    font-size: xx-large;
+    background-color: black;
+}
+   .sportstitle h4{
+      margin-left: 10px;
+   } 
+   .sportDate {
+    border-bottom: 2px solid darkgreen;
+   }
+   .sportstitle a{
+       color:maroon;
+       font-size: 20px;
+      margin-left: 60px;
+      
+   }
+   .sportDate span{
+       font-size: 15px;
+       margin-left: 10px;
+   }
+   /* ------------------sportsAPT End------------------  */
+
+
+   
+
+
+
+
+

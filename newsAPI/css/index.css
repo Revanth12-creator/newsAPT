@@ -1,0 +1,45 @@
+
+#menuBlock{
+    width: 100%;
+    height: 159px;
+    background-color: beige;
+}
+.left{
+    width: 20%;
+    float: left;
+}
+.left img{
+    width: 304px;
+    height: 127px;
+    margin-top: 30px;
+    
+}
+
+.right{
+    width: 60%;
+    float: left;
+    
+}
+
+.right img{
+    width:100%;
+    height: 151px;
+}
+
+
+.end{
+    width: 20%;
+    float: left;
+    
+}
+
+.end img{
+    width: 302px;
+    height: 128px;
+    margin-top: 30px;
+    margin-left: 1px;
+    border-radius: 3px;
+    
+}
+
+
